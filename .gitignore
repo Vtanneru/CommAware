@@ -1,0 +1,28 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.blg
+*.bbl
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.dvi
+*.ps
+
+# OS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+*.egg
+
+# IDE
+.idea/
+.vscode/
