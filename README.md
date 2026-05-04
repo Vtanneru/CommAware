@@ -17,18 +17,6 @@ CommAware is a novel job placement framework for multi-tenant cloud-HPC systems 
 - 91.2% SLA compliance (vs. 62.1% baseline)
 - Zero infrastructure changes required
 
-## Paper
-
-**Title**: CommAware: Communication-Aware Job Placement for Multi-Tenant Cloud-HPC Clusters
-
-**Target**: ICICCS-2026 (International Conference on Computing and Communication Networks)
-
-**Format**: 5 pages, IEEE conference format
-
-**Files**:
-- `CommAware_ICICCS2026.pdf` - Publication-ready paper
-- `CommAware_ICICCS2026.tex` - LaTeX source
-
 ## Code
 
 **Language**: Python 3.7+
@@ -142,17 +130,6 @@ Graph Neural Network trained on 400 scenarios to predict network congestion for 
 - 4 scheduling policies compared
 - 2 concurrent jobs (typical cluster load)
 
-## Reproducibility
-
-✅ All code, data, and figures included
-
-✅ Fixed random seed (42) for deterministic results
-
-✅ Execution time: <2 minutes on commodity laptop
-
-✅ No external dependencies beyond Python packages
-
-✅ Complete methodology description in paper
 
 ## Future Work
 
@@ -173,15 +150,6 @@ Graph Neural Network trained on 400 scenarios to predict network congestion for 
 ## License
 
 This work is for academic and research purposes.
-
-## Citation
-
-If you use CommAware in your research, please cite:
-
-```
-Tanneru, V. (2026). CommAware: Communication-Aware Job Placement for 
-Multi-Tenant Cloud-HPC Clusters. In Proceedings of ICICCS-2026.
-```
 
 ## Acknowledgments
 
